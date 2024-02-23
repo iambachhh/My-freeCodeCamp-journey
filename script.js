@@ -9,7 +9,7 @@ checkBtn.addEventListener('click',()=> {
     case "eye":
     case "_eye":
     case "race car":
-    case "never odd or even":$
+    case "never odd or even":
     case "A man, a plan, a canal. Panama":
     case "My age is 0, 0 si ega ym.":
     case "0_0 (: /-\ :) 0-0":
